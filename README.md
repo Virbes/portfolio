@@ -25,5 +25,5 @@ Soy un desarrollador web apasionado por crear experiencias web excepcionales y s
 Si deseas colaborar en proyectos, tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme:
 
 - Correo Electrónico: francisco.virbes@gmail.com
-- LinkedIn: linkedin.com/in/virbes/
+- LinkedIn: www.linkedin.com/in/virbes/
 
