@@ -1,8 +1,29 @@
-# React + Vite
+# Francisco Virbes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Soy un desarrollador web apasionado por crear experiencias web excepcionales y soluciones tecnológicas innovadoras. Aquí encontrarás una muestra de mis proyectos y habilidades.
 
-Currently, two official plugins are available:
+## Sobre mí
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Nombre**: Francisco Virbes
+- **Ubicación**: Comitán de Domínguez, Chiapas, México
+- **Correo Electrónico**: francisco.virbes@gmail.com
+- **Sitio Web**: www.example.com
+
+## Habilidades
+
+- Desarrollo Frontend (HTML, CSS, JavaScript)
+- Desarrollo Backend (Laravel, Django, Flask)
+- Bases de Datos (MongoDB, MySQL, PostgreSQL)
+- Frameworks JavaScript (React)
+- Gestión de Proyectos (Git, GitHub)
+- Diseño Responsivo
+- Optimización de Rendimiento Web
+
+
+## Contacto
+
+Si deseas colaborar en proyectos, tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme:
+
+- Correo Electrónico: francisco.virbes@gmail.com
+- LinkedIn: linkedin.com/in/virbes/
+
