@@ -1,0 +1,23 @@
+.container-main {
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    margin-top: 50px;
+}
+
+.info-fran {
+    width: 50%;
+}
+
+.image-fran {
+    border-radius: 20px;
+    border: 1px solid #2e2e2e;
+    box-shadow: rgb(79 60 0) 14px 6px 20px -10px,rgb(79 60 0) -10px 10px 20px -10px;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+}
+
+.image-fran img {
+    width: 100%;
+}
