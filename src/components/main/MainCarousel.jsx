@@ -29,7 +29,7 @@ export const MainCarousel = () => {
                 className="mySwiper"
             >
                 {
-                    techs.map(tech => <SwiperSlide><img src={`public/icons/${tech}.png`} /></SwiperSlide>)
+                    techs.map(tech => <SwiperSlide><img src={`icons/${tech}.png`} /></SwiperSlide>)
                 }
 
             </Swiper>

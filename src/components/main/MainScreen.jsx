@@ -41,7 +41,7 @@ export const MainScreen = () => {
                 </div>
 
                 <div className='image-fran'>
-                    <img src="public/p.jpg" alt="Francisco Virbes" />
+                    <img src="p.jpg" alt="Francisco Virbes" />
                 </div>
 
             </div>
